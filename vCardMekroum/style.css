@@ -1,0 +1,66 @@
+
+body {
+	font-family: "helvetica", "gibson - 100", sans-serif;
+	font-size: 18px;
+	color: #000000;
+	line-height: 1.2;
+	margin: 0 auto;	
+	background: #fafafa;
+
+}
+
+.title {
+	font-size: 30px;
+	line-height: 1.2;
+	font-family: 'helvetica', sans-serif;
+	color: #2D2825;
+	font-weight: normal;
+}
+
+.text {
+	font-family: 'gibson - 100';
+  	text-align: left; 
+}
+
+.bluewords {
+	font-size: 20px;
+	line-height: 1.1;
+	font-family: 'gibson - 100', sans-serif;
+	color: #4B21FF;
+}
+
+a:hover{
+	opacity: .8;
+	outline:0;
+} 
+
+
+
+.containertext {
+	width: 400px;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+
+.center {
+	text-align: center;
+
+}
+
+.reseau-icon{
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+.navel{
+	font-weight: 900;
+	text-decoration:none;
+	color: #4B21FF;
+} 
+
+
+.img{
+	padding-top: 18px;
+}
